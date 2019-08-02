@@ -1,0 +1,26 @@
+///////////////////////////////////////////
+// Buttons.scss
+//////////////////////////////////////////
+
+// Primary button
+.button{
+  height: 40px;
+  text-align: center;
+  color: $color-base-white;
+  padding: 0 24px;
+  background-color: $color-background-button-primary-base;
+
+  &:hover{
+    background-color: $color-background-button-primary-active;
+  }
+
+  // Size modifers
+  &.button__L{
+    height: 56px;
+  }
+
+  // Secondary button
+  &.button__secondary{
+    background-color: $color-background-button-secondary-base;
+  }
+}
