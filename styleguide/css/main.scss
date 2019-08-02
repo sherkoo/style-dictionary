@@ -1,5 +1,6 @@
 @import '../../scss/variables';
-@import 'container.scss';
+@import '_container.scss';
+@import '_buttons.scss';
 
 body{
   font-family: $asset-font-opensans-name;
