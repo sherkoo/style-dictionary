@@ -6,7 +6,8 @@
   "scripts": {
     "build": "node_modules/.bin/style-dictionary build",
     "clean": "rm -rf build",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass --watch styleguide/css/main.scss:styleguide/css/main.css"
   },
   "author": "",
   "license": "Apache-2.0",
