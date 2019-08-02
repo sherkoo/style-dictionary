@@ -12,6 +12,7 @@
   "author": "",
   "license": "Apache-2.0",
   "devDependencies": {
+    "sass": "^1.22.9",
     "style-dictionary": "2.8.1"
   }
 }

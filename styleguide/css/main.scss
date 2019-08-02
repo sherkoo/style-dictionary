@@ -1,0 +1,11 @@
+@import '../../scss/variables';
+@import 'container.scss';
+
+body{
+  font-family: $asset-font-opensans-name;
+  font-size: $size-font-base;
+}
+
+h1,h2,h3,h4,h5,h6{
+  margin-bottom: $size-font-base;
+}
