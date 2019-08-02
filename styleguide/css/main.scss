@@ -1,10 +1,12 @@
 @import '../../scss/variables';
 @import '_container.scss';
 @import '_buttons.scss';
+@import '_styleguide.scss';
 
 body{
   font-family: $asset-font-opensans-name;
   font-size: $size-font-base;
+  background-color: #24262d;
 }
 
 h1,h2,h3,h4,h5,h6{
