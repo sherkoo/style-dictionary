@@ -1,11 +1,28 @@
 /**
  * Do not edit directly
- * Generated on Fri, 02 Aug 2019 00:12:37 GMT
+ * Generated on Fri, 02 Aug 2019 01:36:40 GMT
  */
 .container {
   margin: 0 auto;
   width: 100%;
   max-width: 1200px;
+}
+
+.button {
+  height: 40px;
+  text-align: center;
+  color: #ffffff;
+  padding: 0 24px;
+  background-color: #1665db;
+}
+.button:hover {
+  background-color: #1665db;
+}
+.button.button__L {
+  height: 56px;
+}
+.button.button__secondary {
+  background-color: #1665db;
 }
 
 body {

@@ -203,201 +203,12 @@
           "base"
         ]
       },
-      "alt": {
-        "value": "#ffcfd8dc",
-        "attributes": {
-          "font": "base",
-          "category": "color",
-          "type": "background",
-          "item": "alt"
-        },
-        "original": {
-          "value": "{color.base.blue_grey.100.value}",
-          "attributes": {
-            "font": "base"
-          }
-        },
-        "name": "color_background_alt",
-        "path": [
-          "color",
-          "background",
-          "alt"
-        ]
-      },
-      "disabled": {
-        "value": "#ffcfd8dc",
-        "attributes": {
-          "font": "base",
-          "category": "color",
-          "type": "background",
-          "item": "disabled"
-        },
-        "original": {
-          "value": "{color.base.blue_grey.100.value}",
-          "attributes": {
-            "font": "base"
-          }
-        },
-        "name": "color_background_disabled",
-        "path": [
-          "color",
-          "background",
-          "disabled"
-        ]
-      },
-      "inverse": {
-        "value": "#ff263238",
-        "attributes": {
-          "font": "inverse",
-          "category": "color",
-          "type": "background",
-          "item": "inverse"
-        },
-        "original": {
-          "value": "{color.base.blue_grey.900.value}",
-          "attributes": {
-            "font": "inverse"
-          }
-        },
-        "name": "color_background_inverse",
-        "path": [
-          "color",
-          "background",
-          "inverse"
-        ]
-      },
-      "success": {
-        "value": "#ff43a047",
-        "attributes": {
-          "font": "inverse",
-          "category": "color",
-          "type": "background",
-          "item": "success"
-        },
-        "original": {
-          "value": "{color.base.green.600.value}",
-          "attributes": {
-            "font": "inverse"
-          }
-        },
-        "name": "color_background_success",
-        "path": [
-          "color",
-          "background",
-          "success"
-        ]
-      },
-      "error": {
-        "value": "#ffe53935",
-        "attributes": {
-          "font": "inverse",
-          "category": "color",
-          "type": "background",
-          "item": "error"
-        },
-        "original": {
-          "value": "{color.base.red.600.value}",
-          "attributes": {
-            "font": "inverse"
-          }
-        },
-        "name": "color_background_error",
-        "path": [
-          "color",
-          "background",
-          "error"
-        ]
-      },
-      "warning": {
-        "value": "#ffef6c00",
-        "attributes": {
-          "font": "inverse",
-          "category": "color",
-          "type": "background",
-          "item": "warning"
-        },
-        "original": {
-          "value": "{color.base.orange.800.value}",
-          "attributes": {
-            "font": "inverse"
-          }
-        },
-        "name": "color_background_warning",
-        "path": [
-          "color",
-          "background",
-          "warning"
-        ]
-      },
-      "info": {
-        "value": "#ff039be5",
-        "attributes": {
-          "font": "inverse",
-          "category": "color",
-          "type": "background",
-          "item": "info"
-        },
-        "original": {
-          "value": "{color.base.light_blue.600.value}",
-          "attributes": {
-            "font": "inverse"
-          }
-        },
-        "name": "color_background_info",
-        "path": [
-          "color",
-          "background",
-          "info"
-        ]
-      },
-      "link": {
-        "value": "#ff039be5",
-        "attributes": {
-          "font": "inverse",
-          "category": "color",
-          "type": "background",
-          "item": "link"
-        },
-        "original": {
-          "value": "{color.base.light_blue.600.value}",
-          "attributes": {
-            "font": "inverse"
-          }
-        },
-        "name": "color_background_link",
-        "path": [
-          "color",
-          "background",
-          "link"
-        ]
-      },
-      "low-priority": {
-        "value": "#ff757575",
-        "attributes": {
-          "font": "inverse",
-          "category": "color",
-          "type": "background",
-          "item": "low-priority"
-        },
-        "original": {
-          "value": "{color.base.grey.600.value}",
-          "attributes": {
-            "font": "inverse"
-          }
-        },
-        "name": "color_background_low_priority",
-        "path": [
-          "color",
-          "background",
-          "low-priority"
-        ]
-      },
       "button": {
         "primary": {
           "base": {
-            "value": "#ff009688",
+            "value": "#ff1665db",
             "original": {
-              "value": "{color.brand.primary.base.value}"
+              "value": "{color.base.blue.100.value}"
             },
             "name": "color_background_button_primary_base",
             "attributes": {
@@ -416,9 +227,9 @@
             ]
           },
           "disabled": {
-            "value": "#ff4db6ac",
+            "value": "#ff1665db",
             "original": {
-              "value": "{color.brand.primary.light.value}"
+              "value": "{color.base.blue.100.value}"
             },
             "name": "color_background_button_primary_disabled",
             "attributes": {
@@ -437,9 +248,9 @@
             ]
           },
           "active": {
-            "value": "#ff00796b",
+            "value": "#ff1665db",
             "original": {
-              "value": "{color.brand.primary.dark.value}"
+              "value": "{color.base.blue.100.value}"
             },
             "name": "color_background_button_primary_active",
             "attributes": {
@@ -460,9 +271,9 @@
         },
         "secondary": {
           "base": {
-            "value": "#ff3f51b5",
+            "value": "#ff1665db",
             "original": {
-              "value": "{color.brand.secondary.base.value}"
+              "value": "{color.base.blue.100.value}"
             },
             "name": "color_background_button_secondary_base",
             "attributes": {
@@ -481,9 +292,9 @@
             ]
           },
           "disabled": {
-            "value": "#ff7986cb",
+            "value": "#ff1665db",
             "original": {
-              "value": "{color.brand.secondary.light.value}"
+              "value": "{color.base.blue.100.value}"
             },
             "name": "color_background_button_secondary_disabled",
             "attributes": {
@@ -502,9 +313,9 @@
             ]
           },
           "active": {
-            "value": "#ff303f9f",
+            "value": "#ff1665db",
             "original": {
-              "value": "{color.brand.secondary.dark.value}"
+              "value": "{color.base.blue.100.value}"
             },
             "name": "color_background_button_secondary_active",
             "attributes": {
@@ -635,259 +446,6 @@
             "red",
             "200"
           ]
-        },
-        "300": {
-          "value": "#ffe57373",
-          "attributes": {
-            "font": "base",
-            "category": "color",
-            "type": "base",
-            "item": "red",
-            "subitem": "300"
-          },
-          "original": {
-            "value": "#E57373",
-            "attributes": {
-              "font": "base"
-            }
-          },
-          "name": "color_base_red_300",
-          "path": [
-            "color",
-            "base",
-            "red",
-            "300"
-          ]
-        },
-        "400": {
-          "value": "#ffef5350",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "red",
-            "subitem": "400"
-          },
-          "original": {
-            "value": "#EF5350",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_red_400",
-          "path": [
-            "color",
-            "base",
-            "red",
-            "400"
-          ]
-        },
-        "500": {
-          "value": "#fff44336",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "red",
-            "subitem": "500"
-          },
-          "original": {
-            "value": "#F44336",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_red_500",
-          "path": [
-            "color",
-            "base",
-            "red",
-            "500"
-          ]
-        },
-        "600": {
-          "value": "#ffe53935",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "red",
-            "subitem": "600"
-          },
-          "original": {
-            "value": "#E53935",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_red_600",
-          "path": [
-            "color",
-            "base",
-            "red",
-            "600"
-          ]
-        },
-        "700": {
-          "value": "#ffd32f2f",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "red",
-            "subitem": "700"
-          },
-          "original": {
-            "value": "#D32F2F",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_red_700",
-          "path": [
-            "color",
-            "base",
-            "red",
-            "700"
-          ]
-        },
-        "800": {
-          "value": "#ffc62828",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "red",
-            "subitem": "800"
-          },
-          "original": {
-            "value": "#C62828",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_red_800",
-          "path": [
-            "color",
-            "base",
-            "red",
-            "800"
-          ]
-        },
-        "900": {
-          "value": "#ffb71c1c",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "red",
-            "subitem": "900"
-          },
-          "original": {
-            "value": "#B71C1C",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_red_900",
-          "path": [
-            "color",
-            "base",
-            "red",
-            "900"
-          ]
-        },
-        "A100": {
-          "value": "#ffff8a80",
-          "attributes": {
-            "font": "base",
-            "category": "color",
-            "type": "base",
-            "item": "red",
-            "subitem": "A100"
-          },
-          "original": {
-            "value": "#FF8A80",
-            "attributes": {
-              "font": "base"
-            }
-          },
-          "name": "color_base_red_a_100",
-          "path": [
-            "color",
-            "base",
-            "red",
-            "A100"
-          ]
-        },
-        "A200": {
-          "value": "#ffff5252",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "red",
-            "subitem": "A200"
-          },
-          "original": {
-            "value": "#FF5252",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_red_a_200",
-          "path": [
-            "color",
-            "base",
-            "red",
-            "A200"
-          ]
-        },
-        "A400": {
-          "value": "#ffff1744",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "red",
-            "subitem": "A400"
-          },
-          "original": {
-            "value": "#FF1744",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_red_a_400",
-          "path": [
-            "color",
-            "base",
-            "red",
-            "A400"
-          ]
-        },
-        "A700": {
-          "value": "#ffd50000",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "red",
-            "subitem": "A700"
-          },
-          "original": {
-            "value": "#D50000",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_red_a_700",
-          "path": [
-            "color",
-            "base",
-            "red",
-            "A700"
-          ]
         }
       },
       "pink": {
@@ -981,2504 +539,6 @@
             "base",
             "pink",
             "300"
-          ]
-        },
-        "400": {
-          "value": "#ffec407a",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "pink",
-            "subitem": "400"
-          },
-          "original": {
-            "value": "#EC407A",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_pink_400",
-          "path": [
-            "color",
-            "base",
-            "pink",
-            "400"
-          ]
-        },
-        "500": {
-          "value": "#ffe91e63",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "pink",
-            "subitem": "500"
-          },
-          "original": {
-            "value": "#E91E63",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_pink_500",
-          "path": [
-            "color",
-            "base",
-            "pink",
-            "500"
-          ]
-        },
-        "600": {
-          "value": "#ffd81b60",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "pink",
-            "subitem": "600"
-          },
-          "original": {
-            "value": "#D81B60",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_pink_600",
-          "path": [
-            "color",
-            "base",
-            "pink",
-            "600"
-          ]
-        },
-        "700": {
-          "value": "#ffc2185b",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "pink",
-            "subitem": "700"
-          },
-          "original": {
-            "value": "#C2185B",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_pink_700",
-          "path": [
-            "color",
-            "base",
-            "pink",
-            "700"
-          ]
-        },
-        "800": {
-          "value": "#ffad1457",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "pink",
-            "subitem": "800"
-          },
-          "original": {
-            "value": "#AD1457",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_pink_800",
-          "path": [
-            "color",
-            "base",
-            "pink",
-            "800"
-          ]
-        },
-        "900": {
-          "value": "#ff880e4f",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "pink",
-            "subitem": "900"
-          },
-          "original": {
-            "value": "#880E4F",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_pink_900",
-          "path": [
-            "color",
-            "base",
-            "pink",
-            "900"
-          ]
-        },
-        "A100": {
-          "value": "#ffff80ab",
-          "attributes": {
-            "font": "base",
-            "category": "color",
-            "type": "base",
-            "item": "pink",
-            "subitem": "A100"
-          },
-          "original": {
-            "value": "#FF80AB",
-            "attributes": {
-              "font": "base"
-            }
-          },
-          "name": "color_base_pink_a_100",
-          "path": [
-            "color",
-            "base",
-            "pink",
-            "A100"
-          ]
-        },
-        "A200": {
-          "value": "#ffff4081",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "pink",
-            "subitem": "A200"
-          },
-          "original": {
-            "value": "#FF4081",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_pink_a_200",
-          "path": [
-            "color",
-            "base",
-            "pink",
-            "A200"
-          ]
-        },
-        "A400": {
-          "value": "#fff50057",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "pink",
-            "subitem": "A400"
-          },
-          "original": {
-            "value": "#F50057",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_pink_a_400",
-          "path": [
-            "color",
-            "base",
-            "pink",
-            "A400"
-          ]
-        },
-        "A700": {
-          "value": "#ffc51162",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "pink",
-            "subitem": "A700"
-          },
-          "original": {
-            "value": "#C51162",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_pink_a_700",
-          "path": [
-            "color",
-            "base",
-            "pink",
-            "A700"
-          ]
-        }
-      },
-      "purple": {
-        "50": {
-          "value": "#fff3e5f5",
-          "attributes": {
-            "font": "base",
-            "category": "color",
-            "type": "base",
-            "item": "purple",
-            "subitem": "50"
-          },
-          "original": {
-            "value": "#F3E5F5",
-            "attributes": {
-              "font": "base"
-            }
-          },
-          "name": "color_base_purple_50",
-          "path": [
-            "color",
-            "base",
-            "purple",
-            "50"
-          ]
-        },
-        "100": {
-          "value": "#ffe1bee7",
-          "attributes": {
-            "font": "base",
-            "category": "color",
-            "type": "base",
-            "item": "purple",
-            "subitem": "100"
-          },
-          "original": {
-            "value": "#E1BEE7",
-            "attributes": {
-              "font": "base"
-            }
-          },
-          "name": "color_base_purple_100",
-          "path": [
-            "color",
-            "base",
-            "purple",
-            "100"
-          ]
-        },
-        "200": {
-          "value": "#ffce93d8",
-          "attributes": {
-            "font": "base",
-            "category": "color",
-            "type": "base",
-            "item": "purple",
-            "subitem": "200"
-          },
-          "original": {
-            "value": "#CE93D8",
-            "attributes": {
-              "font": "base"
-            }
-          },
-          "name": "color_base_purple_200",
-          "path": [
-            "color",
-            "base",
-            "purple",
-            "200"
-          ]
-        },
-        "300": {
-          "value": "#ffba68c8",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "purple",
-            "subitem": "300"
-          },
-          "original": {
-            "value": "#BA68C8",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_purple_300",
-          "path": [
-            "color",
-            "base",
-            "purple",
-            "300"
-          ]
-        },
-        "400": {
-          "value": "#ffab47bc",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "purple",
-            "subitem": "400"
-          },
-          "original": {
-            "value": "#AB47BC",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_purple_400",
-          "path": [
-            "color",
-            "base",
-            "purple",
-            "400"
-          ]
-        },
-        "500": {
-          "value": "#ff9c27b0",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "purple",
-            "subitem": "500"
-          },
-          "original": {
-            "value": "#9C27B0",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_purple_500",
-          "path": [
-            "color",
-            "base",
-            "purple",
-            "500"
-          ]
-        },
-        "600": {
-          "value": "#ff8e24aa",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "purple",
-            "subitem": "600"
-          },
-          "original": {
-            "value": "#8E24AA",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_purple_600",
-          "path": [
-            "color",
-            "base",
-            "purple",
-            "600"
-          ]
-        },
-        "700": {
-          "value": "#ff7b1fa2",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "purple",
-            "subitem": "700"
-          },
-          "original": {
-            "value": "#7B1FA2",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_purple_700",
-          "path": [
-            "color",
-            "base",
-            "purple",
-            "700"
-          ]
-        },
-        "800": {
-          "value": "#ff6a1b9a",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "purple",
-            "subitem": "800"
-          },
-          "original": {
-            "value": "#6A1B9A",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_purple_800",
-          "path": [
-            "color",
-            "base",
-            "purple",
-            "800"
-          ]
-        },
-        "900": {
-          "value": "#ff4a148c",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "purple",
-            "subitem": "900"
-          },
-          "original": {
-            "value": "#4A148C",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_purple_900",
-          "path": [
-            "color",
-            "base",
-            "purple",
-            "900"
-          ]
-        },
-        "A100": {
-          "value": "#ffea80fc",
-          "attributes": {
-            "font": "base",
-            "category": "color",
-            "type": "base",
-            "item": "purple",
-            "subitem": "A100"
-          },
-          "original": {
-            "value": "#EA80FC",
-            "attributes": {
-              "font": "base"
-            }
-          },
-          "name": "color_base_purple_a_100",
-          "path": [
-            "color",
-            "base",
-            "purple",
-            "A100"
-          ]
-        },
-        "A200": {
-          "value": "#ffe040fb",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "purple",
-            "subitem": "A200"
-          },
-          "original": {
-            "value": "#E040FB",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_purple_a_200",
-          "path": [
-            "color",
-            "base",
-            "purple",
-            "A200"
-          ]
-        },
-        "A400": {
-          "value": "#ffd500f9",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "purple",
-            "subitem": "A400"
-          },
-          "original": {
-            "value": "#D500F9",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_purple_a_400",
-          "path": [
-            "color",
-            "base",
-            "purple",
-            "A400"
-          ]
-        },
-        "A700": {
-          "value": "#ffaa00ff",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "purple",
-            "subitem": "A700"
-          },
-          "original": {
-            "value": "#AA00FF",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_purple_a_700",
-          "path": [
-            "color",
-            "base",
-            "purple",
-            "A700"
-          ]
-        }
-      },
-      "deep_purple": {
-        "50": {
-          "value": "#ffede7f6",
-          "attributes": {
-            "font": "base",
-            "category": "color",
-            "type": "base",
-            "item": "deep_purple",
-            "subitem": "50"
-          },
-          "original": {
-            "value": "#EDE7F6",
-            "attributes": {
-              "font": "base"
-            }
-          },
-          "name": "color_base_deep_purple_50",
-          "path": [
-            "color",
-            "base",
-            "deep_purple",
-            "50"
-          ]
-        },
-        "100": {
-          "value": "#ffd1c4e9",
-          "attributes": {
-            "font": "base",
-            "category": "color",
-            "type": "base",
-            "item": "deep_purple",
-            "subitem": "100"
-          },
-          "original": {
-            "value": "#D1C4E9",
-            "attributes": {
-              "font": "base"
-            }
-          },
-          "name": "color_base_deep_purple_100",
-          "path": [
-            "color",
-            "base",
-            "deep_purple",
-            "100"
-          ]
-        },
-        "200": {
-          "value": "#ffb39ddb",
-          "attributes": {
-            "font": "base",
-            "category": "color",
-            "type": "base",
-            "item": "deep_purple",
-            "subitem": "200"
-          },
-          "original": {
-            "value": "#B39DDB",
-            "attributes": {
-              "font": "base"
-            }
-          },
-          "name": "color_base_deep_purple_200",
-          "path": [
-            "color",
-            "base",
-            "deep_purple",
-            "200"
-          ]
-        },
-        "300": {
-          "value": "#ff9575cd",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "deep_purple",
-            "subitem": "300"
-          },
-          "original": {
-            "value": "#9575CD",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_deep_purple_300",
-          "path": [
-            "color",
-            "base",
-            "deep_purple",
-            "300"
-          ]
-        },
-        "400": {
-          "value": "#ff7e57c2",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "deep_purple",
-            "subitem": "400"
-          },
-          "original": {
-            "value": "#7E57C2",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_deep_purple_400",
-          "path": [
-            "color",
-            "base",
-            "deep_purple",
-            "400"
-          ]
-        },
-        "500": {
-          "value": "#ff673ab7",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "deep_purple",
-            "subitem": "500"
-          },
-          "original": {
-            "value": "#673AB7",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_deep_purple_500",
-          "path": [
-            "color",
-            "base",
-            "deep_purple",
-            "500"
-          ]
-        },
-        "600": {
-          "value": "#ff5e35b1",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "deep_purple",
-            "subitem": "600"
-          },
-          "original": {
-            "value": "#5E35B1",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_deep_purple_600",
-          "path": [
-            "color",
-            "base",
-            "deep_purple",
-            "600"
-          ]
-        },
-        "700": {
-          "value": "#ff512da8",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "deep_purple",
-            "subitem": "700"
-          },
-          "original": {
-            "value": "#512DA8",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_deep_purple_700",
-          "path": [
-            "color",
-            "base",
-            "deep_purple",
-            "700"
-          ]
-        },
-        "800": {
-          "value": "#ff4527a0",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "deep_purple",
-            "subitem": "800"
-          },
-          "original": {
-            "value": "#4527A0",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_deep_purple_800",
-          "path": [
-            "color",
-            "base",
-            "deep_purple",
-            "800"
-          ]
-        },
-        "900": {
-          "value": "#ff311b92",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "deep_purple",
-            "subitem": "900"
-          },
-          "original": {
-            "value": "#311B92",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_deep_purple_900",
-          "path": [
-            "color",
-            "base",
-            "deep_purple",
-            "900"
-          ]
-        },
-        "A100": {
-          "value": "#ffb388ff",
-          "attributes": {
-            "font": "base",
-            "category": "color",
-            "type": "base",
-            "item": "deep_purple",
-            "subitem": "A100"
-          },
-          "original": {
-            "value": "#B388FF",
-            "attributes": {
-              "font": "base"
-            }
-          },
-          "name": "color_base_deep_purple_a_100",
-          "path": [
-            "color",
-            "base",
-            "deep_purple",
-            "A100"
-          ]
-        },
-        "A200": {
-          "value": "#ff7c4dff",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "deep_purple",
-            "subitem": "A200"
-          },
-          "original": {
-            "value": "#7C4DFF",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_deep_purple_a_200",
-          "path": [
-            "color",
-            "base",
-            "deep_purple",
-            "A200"
-          ]
-        },
-        "A400": {
-          "value": "#ff651fff",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "deep_purple",
-            "subitem": "A400"
-          },
-          "original": {
-            "value": "#651FFF",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_deep_purple_a_400",
-          "path": [
-            "color",
-            "base",
-            "deep_purple",
-            "A400"
-          ]
-        },
-        "A700": {
-          "value": "#ff6200ea",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "deep_purple",
-            "subitem": "A700"
-          },
-          "original": {
-            "value": "#6200EA",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_deep_purple_a_700",
-          "path": [
-            "color",
-            "base",
-            "deep_purple",
-            "A700"
-          ]
-        }
-      },
-      "indigo": {
-        "50": {
-          "value": "#ffe8eaf6",
-          "attributes": {
-            "font": "base",
-            "category": "color",
-            "type": "base",
-            "item": "indigo",
-            "subitem": "50"
-          },
-          "original": {
-            "value": "#E8EAF6",
-            "attributes": {
-              "font": "base"
-            }
-          },
-          "name": "color_base_indigo_50",
-          "path": [
-            "color",
-            "base",
-            "indigo",
-            "50"
-          ]
-        },
-        "100": {
-          "value": "#ffc5cae9",
-          "attributes": {
-            "font": "base",
-            "category": "color",
-            "type": "base",
-            "item": "indigo",
-            "subitem": "100"
-          },
-          "original": {
-            "value": "#C5CAE9",
-            "attributes": {
-              "font": "base"
-            }
-          },
-          "name": "color_base_indigo_100",
-          "path": [
-            "color",
-            "base",
-            "indigo",
-            "100"
-          ]
-        },
-        "200": {
-          "value": "#ff9fa8da",
-          "attributes": {
-            "font": "base",
-            "category": "color",
-            "type": "base",
-            "item": "indigo",
-            "subitem": "200"
-          },
-          "original": {
-            "value": "#9FA8DA",
-            "attributes": {
-              "font": "base"
-            }
-          },
-          "name": "color_base_indigo_200",
-          "path": [
-            "color",
-            "base",
-            "indigo",
-            "200"
-          ]
-        },
-        "300": {
-          "value": "#ff7986cb",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "indigo",
-            "subitem": "300"
-          },
-          "original": {
-            "value": "#7986CB",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_indigo_300",
-          "path": [
-            "color",
-            "base",
-            "indigo",
-            "300"
-          ]
-        },
-        "400": {
-          "value": "#ff5c6bc0",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "indigo",
-            "subitem": "400"
-          },
-          "original": {
-            "value": "#5C6BC0",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_indigo_400",
-          "path": [
-            "color",
-            "base",
-            "indigo",
-            "400"
-          ]
-        },
-        "500": {
-          "value": "#ff3f51b5",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "indigo",
-            "subitem": "500"
-          },
-          "original": {
-            "value": "#3F51B5",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_indigo_500",
-          "path": [
-            "color",
-            "base",
-            "indigo",
-            "500"
-          ]
-        },
-        "600": {
-          "value": "#ff3949ab",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "indigo",
-            "subitem": "600"
-          },
-          "original": {
-            "value": "#3949AB",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_indigo_600",
-          "path": [
-            "color",
-            "base",
-            "indigo",
-            "600"
-          ]
-        },
-        "700": {
-          "value": "#ff303f9f",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "indigo",
-            "subitem": "700"
-          },
-          "original": {
-            "value": "#303F9F",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_indigo_700",
-          "path": [
-            "color",
-            "base",
-            "indigo",
-            "700"
-          ]
-        },
-        "800": {
-          "value": "#ff283593",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "indigo",
-            "subitem": "800"
-          },
-          "original": {
-            "value": "#283593",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_indigo_800",
-          "path": [
-            "color",
-            "base",
-            "indigo",
-            "800"
-          ]
-        },
-        "900": {
-          "value": "#ff1a237e",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "indigo",
-            "subitem": "900"
-          },
-          "original": {
-            "value": "#1A237E",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_indigo_900",
-          "path": [
-            "color",
-            "base",
-            "indigo",
-            "900"
-          ]
-        },
-        "A100": {
-          "value": "#ff8c9eff",
-          "attributes": {
-            "font": "base",
-            "category": "color",
-            "type": "base",
-            "item": "indigo",
-            "subitem": "A100"
-          },
-          "original": {
-            "value": "#8C9EFF",
-            "attributes": {
-              "font": "base"
-            }
-          },
-          "name": "color_base_indigo_a_100",
-          "path": [
-            "color",
-            "base",
-            "indigo",
-            "A100"
-          ]
-        },
-        "A200": {
-          "value": "#ff536dfe",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "indigo",
-            "subitem": "A200"
-          },
-          "original": {
-            "value": "#536DFE",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_indigo_a_200",
-          "path": [
-            "color",
-            "base",
-            "indigo",
-            "A200"
-          ]
-        },
-        "A400": {
-          "value": "#ff3d5afe",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "indigo",
-            "subitem": "A400"
-          },
-          "original": {
-            "value": "#3D5AFE",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_indigo_a_400",
-          "path": [
-            "color",
-            "base",
-            "indigo",
-            "A400"
-          ]
-        },
-        "A700": {
-          "value": "#ff304ffe",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "indigo",
-            "subitem": "A700"
-          },
-          "original": {
-            "value": "#304FFE",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_indigo_a_700",
-          "path": [
-            "color",
-            "base",
-            "indigo",
-            "A700"
-          ]
-        }
-      },
-      "blue": {
-        "50": {
-          "value": "#ffe3f2fd",
-          "attributes": {
-            "font": "base",
-            "category": "color",
-            "type": "base",
-            "item": "blue",
-            "subitem": "50"
-          },
-          "original": {
-            "value": "#E3F2FD",
-            "attributes": {
-              "font": "base"
-            }
-          },
-          "name": "color_base_blue_50",
-          "path": [
-            "color",
-            "base",
-            "blue",
-            "50"
-          ]
-        },
-        "100": {
-          "value": "#ffbbdefb",
-          "attributes": {
-            "font": "base",
-            "category": "color",
-            "type": "base",
-            "item": "blue",
-            "subitem": "100"
-          },
-          "original": {
-            "value": "#BBDEFB",
-            "attributes": {
-              "font": "base"
-            }
-          },
-          "name": "color_base_blue_100",
-          "path": [
-            "color",
-            "base",
-            "blue",
-            "100"
-          ]
-        },
-        "200": {
-          "value": "#ff90caf9",
-          "attributes": {
-            "font": "base",
-            "category": "color",
-            "type": "base",
-            "item": "blue",
-            "subitem": "200"
-          },
-          "original": {
-            "value": "#90CAF9",
-            "attributes": {
-              "font": "base"
-            }
-          },
-          "name": "color_base_blue_200",
-          "path": [
-            "color",
-            "base",
-            "blue",
-            "200"
-          ]
-        },
-        "300": {
-          "value": "#ff64b5f6",
-          "attributes": {
-            "font": "base",
-            "category": "color",
-            "type": "base",
-            "item": "blue",
-            "subitem": "300"
-          },
-          "original": {
-            "value": "#64B5F6",
-            "attributes": {
-              "font": "base"
-            }
-          },
-          "name": "color_base_blue_300",
-          "path": [
-            "color",
-            "base",
-            "blue",
-            "300"
-          ]
-        },
-        "400": {
-          "value": "#ff42a5f5",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "blue",
-            "subitem": "400"
-          },
-          "original": {
-            "value": "#42A5F5",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_blue_400",
-          "path": [
-            "color",
-            "base",
-            "blue",
-            "400"
-          ]
-        },
-        "500": {
-          "value": "#ff2196f3",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "blue",
-            "subitem": "500"
-          },
-          "original": {
-            "value": "#2196F3",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_blue_500",
-          "path": [
-            "color",
-            "base",
-            "blue",
-            "500"
-          ]
-        },
-        "600": {
-          "value": "#ff1e88e5",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "blue",
-            "subitem": "600"
-          },
-          "original": {
-            "value": "#1E88E5",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_blue_600",
-          "path": [
-            "color",
-            "base",
-            "blue",
-            "600"
-          ]
-        },
-        "700": {
-          "value": "#ff1976d2",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "blue",
-            "subitem": "700"
-          },
-          "original": {
-            "value": "#1976D2",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_blue_700",
-          "path": [
-            "color",
-            "base",
-            "blue",
-            "700"
-          ]
-        },
-        "800": {
-          "value": "#ff1565c0",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "blue",
-            "subitem": "800"
-          },
-          "original": {
-            "value": "#1565C0",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_blue_800",
-          "path": [
-            "color",
-            "base",
-            "blue",
-            "800"
-          ]
-        },
-        "900": {
-          "value": "#ff0d47a1",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "blue",
-            "subitem": "900"
-          },
-          "original": {
-            "value": "#0D47A1",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_blue_900",
-          "path": [
-            "color",
-            "base",
-            "blue",
-            "900"
-          ]
-        },
-        "A100": {
-          "value": "#ff82b1ff",
-          "attributes": {
-            "font": "base",
-            "category": "color",
-            "type": "base",
-            "item": "blue",
-            "subitem": "A100"
-          },
-          "original": {
-            "value": "#82B1FF",
-            "attributes": {
-              "font": "base"
-            }
-          },
-          "name": "color_base_blue_a_100",
-          "path": [
-            "color",
-            "base",
-            "blue",
-            "A100"
-          ]
-        },
-        "A200": {
-          "value": "#ff448aff",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "blue",
-            "subitem": "A200"
-          },
-          "original": {
-            "value": "#448AFF",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_blue_a_200",
-          "path": [
-            "color",
-            "base",
-            "blue",
-            "A200"
-          ]
-        },
-        "A400": {
-          "value": "#ff2979ff",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "blue",
-            "subitem": "A400"
-          },
-          "original": {
-            "value": "#2979FF",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_blue_a_400",
-          "path": [
-            "color",
-            "base",
-            "blue",
-            "A400"
-          ]
-        },
-        "A700": {
-          "value": "#ff2962ff",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "blue",
-            "subitem": "A700"
-          },
-          "original": {
-            "value": "#2962FF",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_blue_a_700",
-          "path": [
-            "color",
-            "base",
-            "blue",
-            "A700"
-          ]
-        }
-      },
-      "light_blue": {
-        "50": {
-          "value": "#ffe1f5fe",
-          "attributes": {
-            "font": "base",
-            "category": "color",
-            "type": "base",
-            "item": "light_blue",
-            "subitem": "50"
-          },
-          "original": {
-            "value": "#E1F5FE",
-            "attributes": {
-              "font": "base"
-            }
-          },
-          "name": "color_base_light_blue_50",
-          "path": [
-            "color",
-            "base",
-            "light_blue",
-            "50"
-          ]
-        },
-        "100": {
-          "value": "#ffb3e5fc",
-          "attributes": {
-            "font": "base",
-            "category": "color",
-            "type": "base",
-            "item": "light_blue",
-            "subitem": "100"
-          },
-          "original": {
-            "value": "#B3E5FC",
-            "attributes": {
-              "font": "base"
-            }
-          },
-          "name": "color_base_light_blue_100",
-          "path": [
-            "color",
-            "base",
-            "light_blue",
-            "100"
-          ]
-        },
-        "200": {
-          "value": "#ff81d4fa",
-          "attributes": {
-            "font": "base",
-            "category": "color",
-            "type": "base",
-            "item": "light_blue",
-            "subitem": "200"
-          },
-          "original": {
-            "value": "#81D4FA",
-            "attributes": {
-              "font": "base"
-            }
-          },
-          "name": "color_base_light_blue_200",
-          "path": [
-            "color",
-            "base",
-            "light_blue",
-            "200"
-          ]
-        },
-        "300": {
-          "value": "#ff4fc3f7",
-          "attributes": {
-            "font": "base",
-            "category": "color",
-            "type": "base",
-            "item": "light_blue",
-            "subitem": "300"
-          },
-          "original": {
-            "value": "#4FC3F7",
-            "attributes": {
-              "font": "base"
-            }
-          },
-          "name": "color_base_light_blue_300",
-          "path": [
-            "color",
-            "base",
-            "light_blue",
-            "300"
-          ]
-        },
-        "400": {
-          "value": "#ff29b6f6",
-          "attributes": {
-            "font": "base",
-            "category": "color",
-            "type": "base",
-            "item": "light_blue",
-            "subitem": "400"
-          },
-          "original": {
-            "value": "#29B6F6",
-            "attributes": {
-              "font": "base"
-            }
-          },
-          "name": "color_base_light_blue_400",
-          "path": [
-            "color",
-            "base",
-            "light_blue",
-            "400"
-          ]
-        },
-        "500": {
-          "value": "#ff03a9f4",
-          "attributes": {
-            "font": "base",
-            "category": "color",
-            "type": "base",
-            "item": "light_blue",
-            "subitem": "500"
-          },
-          "original": {
-            "value": "#03A9F4",
-            "attributes": {
-              "font": "base"
-            }
-          },
-          "name": "color_base_light_blue_500",
-          "path": [
-            "color",
-            "base",
-            "light_blue",
-            "500"
-          ]
-        },
-        "600": {
-          "value": "#ff039be5",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "light_blue",
-            "subitem": "600"
-          },
-          "original": {
-            "value": "#039BE5",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_light_blue_600",
-          "path": [
-            "color",
-            "base",
-            "light_blue",
-            "600"
-          ]
-        },
-        "700": {
-          "value": "#ff0288d1",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "light_blue",
-            "subitem": "700"
-          },
-          "original": {
-            "value": "#0288D1",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_light_blue_700",
-          "path": [
-            "color",
-            "base",
-            "light_blue",
-            "700"
-          ]
-        },
-        "800": {
-          "value": "#ff0277bd",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "light_blue",
-            "subitem": "800"
-          },
-          "original": {
-            "value": "#0277BD",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_light_blue_800",
-          "path": [
-            "color",
-            "base",
-            "light_blue",
-            "800"
-          ]
-        },
-        "900": {
-          "value": "#ff01579b",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "light_blue",
-            "subitem": "900"
-          },
-          "original": {
-            "value": "#01579B",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_light_blue_900",
-          "path": [
-            "color",
-            "base",
-            "light_blue",
-            "900"
-          ]
-        },
-        "A100": {
-          "value": "#ff80d8ff",
-          "attributes": {
-            "font": "base",
-            "category": "color",
-            "type": "base",
-            "item": "light_blue",
-            "subitem": "A100"
-          },
-          "original": {
-            "value": "#80D8FF",
-            "attributes": {
-              "font": "base"
-            }
-          },
-          "name": "color_base_light_blue_a_100",
-          "path": [
-            "color",
-            "base",
-            "light_blue",
-            "A100"
-          ]
-        },
-        "A200": {
-          "value": "#ff40c4ff",
-          "attributes": {
-            "font": "base",
-            "category": "color",
-            "type": "base",
-            "item": "light_blue",
-            "subitem": "A200"
-          },
-          "original": {
-            "value": "#40C4FF",
-            "attributes": {
-              "font": "base"
-            }
-          },
-          "name": "color_base_light_blue_a_200",
-          "path": [
-            "color",
-            "base",
-            "light_blue",
-            "A200"
-          ]
-        },
-        "A400": {
-          "value": "#ff00b0ff",
-          "attributes": {
-            "font": "base",
-            "category": "color",
-            "type": "base",
-            "item": "light_blue",
-            "subitem": "A400"
-          },
-          "original": {
-            "value": "#00B0FF",
-            "attributes": {
-              "font": "base"
-            }
-          },
-          "name": "color_base_light_blue_a_400",
-          "path": [
-            "color",
-            "base",
-            "light_blue",
-            "A400"
-          ]
-        },
-        "A700": {
-          "value": "#ff0091ea",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "light_blue",
-            "subitem": "A700"
-          },
-          "original": {
-            "value": "#0091EA",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_light_blue_a_700",
-          "path": [
-            "color",
-            "base",
-            "light_blue",
-            "A700"
-          ]
-        }
-      },
-      "cyan": {
-        "50": {
-          "value": "#ffe0f7fa",
-          "attributes": {
-            "font": "base",
-            "category": "color",
-            "type": "base",
-            "item": "cyan",
-            "subitem": "50"
-          },
-          "original": {
-            "value": "#E0F7FA",
-            "attributes": {
-              "font": "base"
-            }
-          },
-          "name": "color_base_cyan_50",
-          "path": [
-            "color",
-            "base",
-            "cyan",
-            "50"
-          ]
-        },
-        "100": {
-          "value": "#ffb2ebf2",
-          "attributes": {
-            "font": "base",
-            "category": "color",
-            "type": "base",
-            "item": "cyan",
-            "subitem": "100"
-          },
-          "original": {
-            "value": "#B2EBF2",
-            "attributes": {
-              "font": "base"
-            }
-          },
-          "name": "color_base_cyan_100",
-          "path": [
-            "color",
-            "base",
-            "cyan",
-            "100"
-          ]
-        },
-        "200": {
-          "value": "#ff80deea",
-          "attributes": {
-            "font": "base",
-            "category": "color",
-            "type": "base",
-            "item": "cyan",
-            "subitem": "200"
-          },
-          "original": {
-            "value": "#80DEEA",
-            "attributes": {
-              "font": "base"
-            }
-          },
-          "name": "color_base_cyan_200",
-          "path": [
-            "color",
-            "base",
-            "cyan",
-            "200"
-          ]
-        },
-        "300": {
-          "value": "#ff4dd0e1",
-          "attributes": {
-            "font": "base",
-            "category": "color",
-            "type": "base",
-            "item": "cyan",
-            "subitem": "300"
-          },
-          "original": {
-            "value": "#4DD0E1",
-            "attributes": {
-              "font": "base"
-            }
-          },
-          "name": "color_base_cyan_300",
-          "path": [
-            "color",
-            "base",
-            "cyan",
-            "300"
-          ]
-        },
-        "400": {
-          "value": "#ff26c6da",
-          "attributes": {
-            "font": "base",
-            "category": "color",
-            "type": "base",
-            "item": "cyan",
-            "subitem": "400"
-          },
-          "original": {
-            "value": "#26C6DA",
-            "attributes": {
-              "font": "base"
-            }
-          },
-          "name": "color_base_cyan_400",
-          "path": [
-            "color",
-            "base",
-            "cyan",
-            "400"
-          ]
-        },
-        "500": {
-          "value": "#ff00bcd4",
-          "attributes": {
-            "font": "base",
-            "category": "color",
-            "type": "base",
-            "item": "cyan",
-            "subitem": "500"
-          },
-          "original": {
-            "value": "#00BCD4",
-            "attributes": {
-              "font": "base"
-            }
-          },
-          "name": "color_base_cyan_500",
-          "path": [
-            "color",
-            "base",
-            "cyan",
-            "500"
-          ]
-        },
-        "600": {
-          "value": "#ff00acc1",
-          "attributes": {
-            "font": "base",
-            "category": "color",
-            "type": "base",
-            "item": "cyan",
-            "subitem": "600"
-          },
-          "original": {
-            "value": "#00ACC1",
-            "attributes": {
-              "font": "base"
-            }
-          },
-          "name": "color_base_cyan_600",
-          "path": [
-            "color",
-            "base",
-            "cyan",
-            "600"
-          ]
-        },
-        "700": {
-          "value": "#ff0097a7",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "cyan",
-            "subitem": "700"
-          },
-          "original": {
-            "value": "#0097A7",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_cyan_700",
-          "path": [
-            "color",
-            "base",
-            "cyan",
-            "700"
-          ]
-        },
-        "800": {
-          "value": "#ff00838f",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "cyan",
-            "subitem": "800"
-          },
-          "original": {
-            "value": "#00838F",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_cyan_800",
-          "path": [
-            "color",
-            "base",
-            "cyan",
-            "800"
-          ]
-        },
-        "900": {
-          "value": "#ff006064",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "cyan",
-            "subitem": "900"
-          },
-          "original": {
-            "value": "#006064",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_cyan_900",
-          "path": [
-            "color",
-            "base",
-            "cyan",
-            "900"
-          ]
-        },
-        "A100": {
-          "value": "#ff84ffff",
-          "attributes": {
-            "font": "base",
-            "category": "color",
-            "type": "base",
-            "item": "cyan",
-            "subitem": "A100"
-          },
-          "original": {
-            "value": "#84FFFF",
-            "attributes": {
-              "font": "base"
-            }
-          },
-          "name": "color_base_cyan_a_100",
-          "path": [
-            "color",
-            "base",
-            "cyan",
-            "A100"
-          ]
-        },
-        "A200": {
-          "value": "#ff18ffff",
-          "attributes": {
-            "font": "base",
-            "category": "color",
-            "type": "base",
-            "item": "cyan",
-            "subitem": "A200"
-          },
-          "original": {
-            "value": "#18FFFF",
-            "attributes": {
-              "font": "base"
-            }
-          },
-          "name": "color_base_cyan_a_200",
-          "path": [
-            "color",
-            "base",
-            "cyan",
-            "A200"
-          ]
-        },
-        "A400": {
-          "value": "#ff00e5ff",
-          "attributes": {
-            "font": "base",
-            "category": "color",
-            "type": "base",
-            "item": "cyan",
-            "subitem": "A400"
-          },
-          "original": {
-            "value": "#00E5FF",
-            "attributes": {
-              "font": "base"
-            }
-          },
-          "name": "color_base_cyan_a_400",
-          "path": [
-            "color",
-            "base",
-            "cyan",
-            "A400"
-          ]
-        },
-        "A700": {
-          "value": "#ff00b8d4",
-          "attributes": {
-            "font": "base",
-            "category": "color",
-            "type": "base",
-            "item": "cyan",
-            "subitem": "A700"
-          },
-          "original": {
-            "value": "#00B8D4",
-            "attributes": {
-              "font": "base"
-            }
-          },
-          "name": "color_base_cyan_a_700",
-          "path": [
-            "color",
-            "base",
-            "cyan",
-            "A700"
-          ]
-        }
-      },
-      "teal": {
-        "50": {
-          "value": "#ffe0f2f1",
-          "attributes": {
-            "font": "base",
-            "category": "color",
-            "type": "base",
-            "item": "teal",
-            "subitem": "50"
-          },
-          "original": {
-            "value": "#E0F2F1",
-            "attributes": {
-              "font": "base"
-            }
-          },
-          "name": "color_base_teal_50",
-          "path": [
-            "color",
-            "base",
-            "teal",
-            "50"
-          ]
-        },
-        "100": {
-          "value": "#ffb2dfdb",
-          "attributes": {
-            "font": "base",
-            "category": "color",
-            "type": "base",
-            "item": "teal",
-            "subitem": "100"
-          },
-          "original": {
-            "value": "#B2DFDB",
-            "attributes": {
-              "font": "base"
-            }
-          },
-          "name": "color_base_teal_100",
-          "path": [
-            "color",
-            "base",
-            "teal",
-            "100"
-          ]
-        },
-        "200": {
-          "value": "#ff80cbc4",
-          "attributes": {
-            "font": "base",
-            "category": "color",
-            "type": "base",
-            "item": "teal",
-            "subitem": "200"
-          },
-          "original": {
-            "value": "#80CBC4",
-            "attributes": {
-              "font": "base"
-            }
-          },
-          "name": "color_base_teal_200",
-          "path": [
-            "color",
-            "base",
-            "teal",
-            "200"
-          ]
-        },
-        "300": {
-          "value": "#ff4db6ac",
-          "attributes": {
-            "font": "base",
-            "category": "color",
-            "type": "base",
-            "item": "teal",
-            "subitem": "300"
-          },
-          "original": {
-            "value": "#4DB6AC",
-            "attributes": {
-              "font": "base"
-            }
-          },
-          "name": "color_base_teal_300",
-          "path": [
-            "color",
-            "base",
-            "teal",
-            "300"
-          ]
-        },
-        "400": {
-          "value": "#ff26a69a",
-          "attributes": {
-            "font": "base",
-            "category": "color",
-            "type": "base",
-            "item": "teal",
-            "subitem": "400"
-          },
-          "original": {
-            "value": "#26A69A",
-            "attributes": {
-              "font": "base"
-            }
-          },
-          "name": "color_base_teal_400",
-          "path": [
-            "color",
-            "base",
-            "teal",
-            "400"
-          ]
-        },
-        "500": {
-          "value": "#ff009688",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "teal",
-            "subitem": "500"
-          },
-          "original": {
-            "value": "#009688",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_teal_500",
-          "path": [
-            "color",
-            "base",
-            "teal",
-            "500"
-          ]
-        },
-        "600": {
-          "value": "#ff00897b",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "teal",
-            "subitem": "600"
-          },
-          "original": {
-            "value": "#00897B",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_teal_600",
-          "path": [
-            "color",
-            "base",
-            "teal",
-            "600"
-          ]
-        },
-        "700": {
-          "value": "#ff00796b",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "teal",
-            "subitem": "700"
-          },
-          "original": {
-            "value": "#00796B",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_teal_700",
-          "path": [
-            "color",
-            "base",
-            "teal",
-            "700"
-          ]
-        },
-        "800": {
-          "value": "#ff00695c",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "teal",
-            "subitem": "800"
-          },
-          "original": {
-            "value": "#00695C",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_teal_800",
-          "path": [
-            "color",
-            "base",
-            "teal",
-            "800"
-          ]
-        },
-        "900": {
-          "value": "#ff004d40",
-          "attributes": {
-            "font": "inverse",
-            "category": "color",
-            "type": "base",
-            "item": "teal",
-            "subitem": "900"
-          },
-          "original": {
-            "value": "#004D40",
-            "attributes": {
-              "font": "inverse"
-            }
-          },
-          "name": "color_base_teal_900",
-          "path": [
-            "color",
-            "base",
-            "teal",
-            "900"
-          ]
-        },
-        "A100": {
-          "value": "#ffa7ffeb",
-          "attributes": {
-            "font": "base",
-            "category": "color",
-            "type": "base",
-            "item": "teal",
-            "subitem": "A100"
-          },
-          "original": {
-            "value": "#A7FFEB",
-            "attributes": {
-              "font": "base"
-            }
-          },
-          "name": "color_base_teal_a_100",
-          "path": [
-            "color",
-            "base",
-            "teal",
-            "A100"
-          ]
-        },
-        "A200": {
-          "value": "#ff64ffda",
-          "attributes": {
-            "font": "base",
-            "category": "color",
-            "type": "base",
-            "item": "teal",
-            "subitem": "A200"
-          },
-          "original": {
-            "value": "#64FFDA",
-            "attributes": {
-              "font": "base"
-            }
-          },
-          "name": "color_base_teal_a_200",
-          "path": [
-            "color",
-            "base",
-            "teal",
-            "A200"
-          ]
-        },
-        "A400": {
-          "value": "#ff1de9b6",
-          "attributes": {
-            "font": "base",
-            "category": "color",
-            "type": "base",
-            "item": "teal",
-            "subitem": "A400"
-          },
-          "original": {
-            "value": "#1DE9B6",
-            "attributes": {
-              "font": "base"
-            }
-          },
-          "name": "color_base_teal_a_400",
-          "path": [
-            "color",
-            "base",
-            "teal",
-            "A400"
-          ]
-        },
-        "A700": {
-          "value": "#ff00bfa5",
-          "attributes": {
-            "font": "base",
-            "category": "color",
-            "type": "base",
-            "item": "teal",
-            "subitem": "A700"
-          },
-          "original": {
-            "value": "#00BFA5",
-            "attributes": {
-              "font": "base"
-            }
-          },
-          "name": "color_base_teal_a_700",
-          "path": [
-            "color",
-            "base",
-            "teal",
-            "A700"
           ]
         }
       },
@@ -6214,6 +3274,46 @@
           ]
         }
       },
+      "blue": {
+        "50": {
+          "value": "#ff6db3e5",
+          "original": {
+            "value": "#6db3e5"
+          },
+          "name": "color_base_blue_50",
+          "attributes": {
+            "category": "color",
+            "type": "base",
+            "item": "blue",
+            "subitem": "50"
+          },
+          "path": [
+            "color",
+            "base",
+            "blue",
+            "50"
+          ]
+        },
+        "100": {
+          "value": "#ff1665db",
+          "original": {
+            "value": "#1665db"
+          },
+          "name": "color_base_blue_100",
+          "attributes": {
+            "category": "color",
+            "type": "base",
+            "item": "blue",
+            "subitem": "100"
+          },
+          "path": [
+            "color",
+            "base",
+            "blue",
+            "100"
+          ]
+        }
+      },
       "blue_grey": {
         "50": {
           "value": "#ffeceff1",
@@ -6534,7 +3634,7 @@
         ]
       },
       "focus": {
-        "value": "#ff009688",
+        "value": "#ff1665db",
         "original": {
           "value": "{color.brand.primary.base.value}"
         },
@@ -6551,9 +3651,9 @@
         ]
       },
       "error": {
-        "value": "#ffe53935",
+        "value": "#ff1665db",
         "original": {
-          "value": "{color.base.red.600.value}"
+          "value": "{color.base.blue.100.value}"
         },
         "name": "color_border_error",
         "attributes": {
@@ -6625,9 +3725,27 @@
             ]
           },
           "active": {
-            "value": "#ff303f9f",
+            "value": {
+              "value": "#ff1665db",
+              "original": {
+                "value": "#1665db"
+              },
+              "name": "color_base_blue_100",
+              "attributes": {
+                "category": "color",
+                "type": "base",
+                "item": "blue",
+                "subitem": "100"
+              },
+              "path": [
+                "color",
+                "base",
+                "blue",
+                "100"
+              ]
+            },
             "original": {
-              "value": "{color.brand.secondary.dark.value}"
+              "value": "{color.base.blue.100}"
             },
             "name": "color_border_button_secondary_active",
             "attributes": {
@@ -6672,9 +3790,9 @@
     "brand": {
       "primary": {
         "lighter": {
-          "value": "#ffb2dfdb",
+          "value": "#ff1665db",
           "original": {
-            "value": "{color.base.teal.100.value}"
+            "value": "{color.base.blue.100.value}"
           },
           "name": "color_brand_primary_lighter",
           "attributes": {
@@ -6691,9 +3809,9 @@
           ]
         },
         "light": {
-          "value": "#ff4db6ac",
+          "value": "#ff1665db",
           "original": {
-            "value": "{color.base.teal.300.value}"
+            "value": "{color.base.blue.100.value}"
           },
           "name": "color_brand_primary_light",
           "attributes": {
@@ -6710,9 +3828,9 @@
           ]
         },
         "base": {
-          "value": "#ff009688",
+          "value": "#ff1665db",
           "original": {
-            "value": "{color.base.teal.500.value}"
+            "value": "{color.base.blue.100.value}"
           },
           "name": "color_brand_primary_base",
           "attributes": {
@@ -6729,9 +3847,9 @@
           ]
         },
         "dark": {
-          "value": "#ff00796b",
+          "value": "#ff1665db",
           "original": {
-            "value": "{color.base.teal.700.value}"
+            "value": "{color.base.blue.100.value}"
           },
           "name": "color_brand_primary_dark",
           "attributes": {
@@ -6748,9 +3866,9 @@
           ]
         },
         "darker": {
-          "value": "#ff004d40",
+          "value": "#ff1665db",
           "original": {
-            "value": "{color.base.teal.900.value}"
+            "value": "{color.base.blue.100.value}"
           },
           "name": "color_brand_primary_darker",
           "attributes": {
@@ -6769,9 +3887,9 @@
       },
       "secondary": {
         "lighter": {
-          "value": "#ffc5cae9",
+          "value": "#ff1665db",
           "original": {
-            "value": "{color.base.indigo.100.value}"
+            "value": "{color.base.blue.100.value}"
           },
           "name": "color_brand_secondary_lighter",
           "attributes": {
@@ -6788,9 +3906,9 @@
           ]
         },
         "light": {
-          "value": "#ff7986cb",
+          "value": "#ff1665db",
           "original": {
-            "value": "{color.base.indigo.300.value}"
+            "value": "{color.base.blue.100.value}"
           },
           "name": "color_brand_secondary_light",
           "attributes": {
@@ -6807,9 +3925,9 @@
           ]
         },
         "base": {
-          "value": "#ff3f51b5",
+          "value": "#ff1665db",
           "original": {
-            "value": "{color.base.indigo.500.value}"
+            "value": "{color.base.blue.100.value}"
           },
           "name": "color_brand_secondary_base",
           "attributes": {
@@ -6826,9 +3944,9 @@
           ]
         },
         "dark": {
-          "value": "#ff303f9f",
+          "value": "#ff1665db",
           "original": {
-            "value": "{color.base.indigo.700.value}"
+            "value": "{color.base.blue.100.value}"
           },
           "name": "color_brand_secondary_dark",
           "attributes": {
@@ -6845,9 +3963,9 @@
           ]
         },
         "darker": {
-          "value": "#ff1a237e",
+          "value": "#ff1665db",
           "original": {
-            "value": "{color.base.indigo.900.value}"
+            "value": "{color.base.blue.100.value}"
           },
           "name": "color_brand_secondary_darker",
           "attributes": {
@@ -6865,206 +3983,11 @@
         }
       }
     },
-    "chart": {
-      "stacked": {
-        "base": {
-          "100": {
-            "value": "#ffbbdefb",
-            "original": {
-              "value": "{color.base.blue.100.value}"
-            },
-            "name": "color_chart_stacked_base_100",
-            "attributes": {
-              "category": "color",
-              "type": "chart",
-              "item": "stacked",
-              "subitem": "base",
-              "state": "100"
-            },
-            "path": [
-              "color",
-              "chart",
-              "stacked",
-              "base",
-              "100"
-            ]
-          },
-          "200": {
-            "value": "#ff90caf9",
-            "original": {
-              "value": "{color.base.blue.200.value}"
-            },
-            "name": "color_chart_stacked_base_200",
-            "attributes": {
-              "category": "color",
-              "type": "chart",
-              "item": "stacked",
-              "subitem": "base",
-              "state": "200"
-            },
-            "path": [
-              "color",
-              "chart",
-              "stacked",
-              "base",
-              "200"
-            ]
-          },
-          "300": {
-            "value": "#ff64b5f6",
-            "original": {
-              "value": "{color.base.blue.300.value}"
-            },
-            "name": "color_chart_stacked_base_300",
-            "attributes": {
-              "category": "color",
-              "type": "chart",
-              "item": "stacked",
-              "subitem": "base",
-              "state": "300"
-            },
-            "path": [
-              "color",
-              "chart",
-              "stacked",
-              "base",
-              "300"
-            ]
-          },
-          "400": {
-            "value": "#ff42a5f5",
-            "original": {
-              "value": "{color.base.blue.400.value}"
-            },
-            "name": "color_chart_stacked_base_400",
-            "attributes": {
-              "category": "color",
-              "type": "chart",
-              "item": "stacked",
-              "subitem": "base",
-              "state": "400"
-            },
-            "path": [
-              "color",
-              "chart",
-              "stacked",
-              "base",
-              "400"
-            ]
-          },
-          "500": {
-            "value": "#ff2196f3",
-            "original": {
-              "value": "{color.base.blue.500.value}"
-            },
-            "name": "color_chart_stacked_base_500",
-            "attributes": {
-              "category": "color",
-              "type": "chart",
-              "item": "stacked",
-              "subitem": "base",
-              "state": "500"
-            },
-            "path": [
-              "color",
-              "chart",
-              "stacked",
-              "base",
-              "500"
-            ]
-          },
-          "600": {
-            "value": "#ff1e88e5",
-            "original": {
-              "value": "{color.base.blue.600.value}"
-            },
-            "name": "color_chart_stacked_base_600",
-            "attributes": {
-              "category": "color",
-              "type": "chart",
-              "item": "stacked",
-              "subitem": "base",
-              "state": "600"
-            },
-            "path": [
-              "color",
-              "chart",
-              "stacked",
-              "base",
-              "600"
-            ]
-          },
-          "700": {
-            "value": "#ff1976d2",
-            "original": {
-              "value": "{color.base.blue.700.value}"
-            },
-            "name": "color_chart_stacked_base_700",
-            "attributes": {
-              "category": "color",
-              "type": "chart",
-              "item": "stacked",
-              "subitem": "base",
-              "state": "700"
-            },
-            "path": [
-              "color",
-              "chart",
-              "stacked",
-              "base",
-              "700"
-            ]
-          },
-          "800": {
-            "value": "#ff1565c0",
-            "original": {
-              "value": "{color.base.blue.800.value}"
-            },
-            "name": "color_chart_stacked_base_800",
-            "attributes": {
-              "category": "color",
-              "type": "chart",
-              "item": "stacked",
-              "subitem": "base",
-              "state": "800"
-            },
-            "path": [
-              "color",
-              "chart",
-              "stacked",
-              "base",
-              "800"
-            ]
-          },
-          "900": {
-            "value": "#ff0d47a1",
-            "original": {
-              "value": "{color.base.blue.900.value}"
-            },
-            "name": "color_chart_stacked_base_900",
-            "attributes": {
-              "category": "color",
-              "type": "chart",
-              "item": "stacked",
-              "subitem": "base",
-              "state": "900"
-            },
-            "path": [
-              "color",
-              "chart",
-              "stacked",
-              "base",
-              "900"
-            ]
-          }
-        }
-      }
-    },
     "font": {
       "base": {
-        "value": "#ff212121",
+        "value": "#ff1665db",
         "original": {
-          "value": "{color.base.grey.900.value}"
+          "value": "{color.base.blue.100.value}"
         },
         "name": "color_font_base",
         "attributes": {
@@ -7079,9 +4002,9 @@
         ]
       },
       "secondary": {
-        "value": "#ff424242",
+        "value": "#ff1665db",
         "original": {
-          "value": "{color.base.grey.800.value}"
+          "value": "{color.base.blue.100.value}"
         },
         "name": "color_font_secondary",
         "attributes": {
@@ -7093,142 +4016,6 @@
           "color",
           "font",
           "secondary"
-        ]
-      },
-      "tertiary": {
-        "value": "#ff757575",
-        "original": {
-          "value": "{color.base.grey.600.value}"
-        },
-        "name": "color_font_tertiary",
-        "attributes": {
-          "category": "color",
-          "type": "font",
-          "item": "tertiary"
-        },
-        "path": [
-          "color",
-          "font",
-          "tertiary"
-        ]
-      },
-      "quaternary": {
-        "value": "#ffbdbdbd",
-        "original": {
-          "value": "{color.base.grey.400.value}"
-        },
-        "name": "color_font_quaternary",
-        "attributes": {
-          "category": "color",
-          "type": "font",
-          "item": "quaternary"
-        },
-        "path": [
-          "color",
-          "font",
-          "quaternary"
-        ]
-      },
-      "link": {
-        "value": "#ff009688",
-        "original": {
-          "value": "{color.brand.primary.base.value}"
-        },
-        "name": "color_font_link",
-        "attributes": {
-          "category": "color",
-          "type": "font",
-          "item": "link"
-        },
-        "path": [
-          "color",
-          "font",
-          "link"
-        ]
-      },
-      "active": {
-        "value": "#ff3f51b5",
-        "original": {
-          "value": "{color.brand.secondary.base.value}"
-        },
-        "name": "color_font_active",
-        "attributes": {
-          "category": "color",
-          "type": "font",
-          "item": "active"
-        },
-        "path": [
-          "color",
-          "font",
-          "active"
-        ]
-      },
-      "error": {
-        "value": "#ffe53935",
-        "original": {
-          "value": "{color.base.red.600.value}"
-        },
-        "name": "color_font_error",
-        "attributes": {
-          "category": "color",
-          "type": "font",
-          "item": "error"
-        },
-        "path": [
-          "color",
-          "font",
-          "error"
-        ]
-      },
-      "warning": {
-        "value": "#ffef6c00",
-        "original": {
-          "value": "{color.base.orange.800.value}"
-        },
-        "name": "color_font_warning",
-        "attributes": {
-          "category": "color",
-          "type": "font",
-          "item": "warning"
-        },
-        "path": [
-          "color",
-          "font",
-          "warning"
-        ]
-      },
-      "success": {
-        "value": "#ff43a047",
-        "original": {
-          "value": "{color.base.green.600.value}"
-        },
-        "name": "color_font_success",
-        "attributes": {
-          "category": "color",
-          "type": "font",
-          "item": "success"
-        },
-        "path": [
-          "color",
-          "font",
-          "success"
-        ]
-      },
-      "disabled": {
-        "value": "#ff424242",
-        "original": {
-          "value": "{color.font.secondary.value}"
-        },
-        "name": "color_font_disabled",
-        "attributes": {
-          "category": "color",
-          "type": "font",
-          "item": "disabled"
-        },
-        "path": [
-          "color",
-          "font",
-          "disabled"
         ]
       },
       "inverse": {
@@ -7252,9 +4039,9 @@
           ]
         },
         "secondary": {
-          "value": "#fff5f5f5",
+          "value": "#ff1665db",
           "original": {
-            "value": "{color.base.grey.100.value}"
+            "value": "{color.base.blue.100.value}"
           },
           "name": "color_font_inverse_secondary",
           "attributes": {
@@ -7271,9 +4058,9 @@
           ]
         },
         "tertiary": {
-          "value": "#ffeeeeee",
+          "value": "#ff1665db",
           "original": {
-            "value": "{color.base.grey.200.value}"
+            "value": "{color.base.blue.100.value}"
           },
           "name": "color_font_inverse_tertiary",
           "attributes": {
@@ -7290,9 +4077,9 @@
           ]
         },
         "quaternary": {
-          "value": "#ffbdbdbd",
+          "value": "#ff1665db",
           "original": {
-            "value": "{color.base.grey.400.value}"
+            "value": "{color.base.blue.100.value}"
           },
           "name": "color_font_inverse_quaternary",
           "attributes": {
@@ -7309,9 +4096,9 @@
           ]
         },
         "link": {
-          "value": "#ff4db6ac",
+          "value": "#ff1665db",
           "original": {
-            "value": "{color.brand.primary.light.value}"
+            "value": "{color.base.blue.100.value}"
           },
           "name": "color_font_inverse_link",
           "attributes": {
@@ -7328,9 +4115,9 @@
           ]
         },
         "active": {
-          "value": "#ff7986cb",
+          "value": "#ff1665db",
           "original": {
-            "value": "{color.brand.secondary.light.value}"
+            "value": "{color.base.blue.100.value}"
           },
           "name": "color_font_inverse_active",
           "attributes": {
@@ -7347,9 +4134,9 @@
           ]
         },
         "error": {
-          "value": "#ffef5350",
+          "value": "#ff1665db",
           "original": {
-            "value": "{color.base.red.400.value}"
+            "value": "{color.base.blue.100.value}"
           },
           "name": "color_font_inverse_error",
           "attributes": {
@@ -7366,9 +4153,9 @@
           ]
         },
         "warning": {
-          "value": "#ffffa726",
+          "value": "#ff1665db",
           "original": {
-            "value": "{color.base.orange.400.value}"
+            "value": "{color.base.blue.100.value}"
           },
           "name": "color_font_inverse_warning",
           "attributes": {
@@ -7385,9 +4172,9 @@
           ]
         },
         "success": {
-          "value": "#ff66bb6a",
+          "value": "#ff1665db",
           "original": {
-            "value": "{color.base.green.400.value}"
+            "value": "{color.base.blue.100.value}"
           },
           "name": "color_font_inverse_success",
           "attributes": {
@@ -7404,9 +4191,9 @@
           ]
         },
         "disabled": {
-          "value": "#fff5f5f5",
+          "value": "#ff1665db",
           "original": {
-            "value": "{color.font.inverse.secondary.value}"
+            "value": "{color.base.blue.100.value}"
           },
           "name": "color_font_inverse_disabled",
           "attributes": {
@@ -7444,9 +4231,27 @@
           ]
         },
         "secondary": {
-          "value": "#ff009688",
+          "value": {
+            "value": "#ff1665db",
+            "original": {
+              "value": "#1665db"
+            },
+            "name": "color_base_blue_100",
+            "attributes": {
+              "category": "color",
+              "type": "base",
+              "item": "blue",
+              "subitem": "100"
+            },
+            "path": [
+              "color",
+              "base",
+              "blue",
+              "100"
+            ]
+          },
           "original": {
-            "value": "{color.font.link.value}"
+            "value": "{color.base.blue.100}"
           },
           "name": "color_font_button_secondary",
           "attributes": {
