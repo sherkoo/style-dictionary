@@ -3,7 +3,7 @@
 // StyleDictionaryColor.h
 //
 // Do not edit directly
-// Generated on Fri, 02 Aug 2019 01:36:40 GMT
+// Generated on Fri, 02 Aug 2019 02:09:19 GMT
 //
 
 #import <UIKit/UIKit.h>
@@ -144,8 +144,14 @@ StyleDictionaryColorBaseGrey600,
 StyleDictionaryColorBaseGrey700,
 StyleDictionaryColorBaseGrey800,
 StyleDictionaryColorBaseGrey900,
-StyleDictionaryColorBaseBlue50,
+StyleDictionaryColorBaseBlue40,
+StyleDictionaryColorBaseBlue60,
+StyleDictionaryColorBaseBlue80,
 StyleDictionaryColorBaseBlue100,
+StyleDictionaryColorBasePurple40,
+StyleDictionaryColorBasePurple60,
+StyleDictionaryColorBasePurple80,
+StyleDictionaryColorBasePurple100,
 StyleDictionaryColorBaseBlueGrey50,
 StyleDictionaryColorBaseBlueGrey100,
 StyleDictionaryColorBaseBlueGrey200,

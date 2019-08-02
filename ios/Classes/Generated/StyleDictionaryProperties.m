@@ -3,7 +3,7 @@
 // StyleDictionaryProperties.m
 //
 // Do not edit directly
-// Generated on Fri, 02 Aug 2019 01:36:40 GMT
+// Generated on Fri, 02 Aug 2019 02:09:19 GMT
 //
 
 #import "StyleDictionaryProperties.h"
@@ -1344,13 +1344,29 @@
           }
         },
       @"blue": @{
-        @"50": @{
-          @"value": [UIColor colorWithRed:0.43f green:0.70f blue:0.90f alpha:1.00f],
-          @"name": @"StyleDictionaryColorBaseBlue50",
+        @"40": @{
+          @"value": [UIColor colorWithRed:0.75f green:0.83f blue:0.95f alpha:1.00f],
+          @"name": @"StyleDictionaryColorBaseBlue40",
           @"category": @"color",
           @"type": @"base",
           @"item": @"blue",
-          @"subitem": @"50"
+          @"subitem": @"40"
+          },
+        @"60": @{
+          @"value": [UIColor colorWithRed:0.50f green:0.69f blue:0.91f alpha:1.00f],
+          @"name": @"StyleDictionaryColorBaseBlue60",
+          @"category": @"color",
+          @"type": @"base",
+          @"item": @"blue",
+          @"subitem": @"60"
+          },
+        @"80": @{
+          @"value": [UIColor colorWithRed:0.27f green:0.54f blue:0.86f alpha:1.00f],
+          @"name": @"StyleDictionaryColorBaseBlue80",
+          @"category": @"color",
+          @"type": @"base",
+          @"item": @"blue",
+          @"subitem": @"80"
           },
         @"100": @{
           @"value": [UIColor colorWithRed:0.09f green:0.40f blue:0.86f alpha:1.00f],
@@ -1358,6 +1374,40 @@
           @"category": @"color",
           @"type": @"base",
           @"item": @"blue",
+          @"subitem": @"100"
+          }
+        },
+      @"purple": @{
+        @"40": @{
+          @"value": [UIColor colorWithRed:0.84f green:0.82f blue:0.97f alpha:1.00f],
+          @"name": @"StyleDictionaryColorBasePurple40",
+          @"category": @"color",
+          @"type": @"base",
+          @"item": @"purple",
+          @"subitem": @"40"
+          },
+        @"60": @{
+          @"value": [UIColor colorWithRed:0.69f green:0.66f blue:0.96f alpha:1.00f],
+          @"name": @"StyleDictionaryColorBasePurple60",
+          @"category": @"color",
+          @"type": @"base",
+          @"item": @"purple",
+          @"subitem": @"60"
+          },
+        @"80": @{
+          @"value": [UIColor colorWithRed:0.54f green:0.51f blue:0.94f alpha:1.00f],
+          @"name": @"StyleDictionaryColorBasePurple80",
+          @"category": @"color",
+          @"type": @"base",
+          @"item": @"purple",
+          @"subitem": @"80"
+          },
+        @"100": @{
+          @"value": [UIColor colorWithRed:0.39f green:0.35f blue:0.93f alpha:1.00f],
+          @"name": @"StyleDictionaryColorBasePurple100",
+          @"category": @"color",
+          @"type": @"base",
+          @"item": @"purple",
           @"subitem": @"100"
           }
         },

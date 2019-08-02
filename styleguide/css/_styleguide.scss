@@ -2,7 +2,61 @@
 // Styleguide
 //////////////////////////////////////////
 
+// Titles
 .styleguide-title{
-  font-size: 14px;
-  color: $color-base-amber-200;
+  font-size: 12px;
+  color: $color-base-blue-100;
+  border-top: 1px solid $color-base-blue-80;
+  display: block;
+  padding-top: 8px;
+}
+
+// Colors
+.styleguide--color{
+  width: 200px;
+  height: 48px;
+  line-height: 48px;
+  border-radius: 8px;
+  color: #fff;
+  font-size: 12px;
+  text-align: center;
+  margin-bottom: 4px;
+}
+
+// Blues
+.styleguide--color{
+  &.blue--100{
+    background-color: $color-base-blue-100;
+  }
+
+  &.blue--80{
+    background-color: $color-base-blue-80;
+  }
+
+  &.blue--60{
+    background-color: $color-base-blue-60;
+  }
+
+  &.blue--40{
+    background-color: $color-base-blue-40;
+  }
+}
+
+// Purple
+.styleguide--color{
+  &.purple--100{
+    background-color: $color-base-purple-100;
+  }
+
+  &.purple--80{
+    background-color: $color-base-purple-80;
+  }
+
+  &.purple--60{
+    background-color: $color-base-purple-60;
+  }
+
+  &.purple--40{
+    background-color: $color-base-purple-40;
+  }
 }
