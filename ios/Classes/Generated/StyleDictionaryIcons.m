@@ -3,7 +3,7 @@
 // StyleDictionaryIcons.m
 //
 // Do not edit directly
-// Generated on Fri, 02 Aug 2019 02:09:19 GMT
+// Generated on Sat, 03 Aug 2019 20:15:13 GMT
 //
 
 #import "StyleDictionaryIcons.h"
