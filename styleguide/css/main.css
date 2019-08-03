@@ -13,6 +13,9 @@
   text-align: center;
   color: #ffffff;
   padding: 0 24px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
   background-color: #1665db;
 }
 .button:hover {
@@ -22,7 +25,9 @@
   height: 56px;
 }
 .button.button__secondary {
-  background-color: #1665db;
+  background: none;
+  border: 1px solid blue;
+  color: #1665db;
 }
 
 .styleguide-title {

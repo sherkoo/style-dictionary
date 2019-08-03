@@ -3,7 +3,7 @@
 // StyleDictionaryProperties.m
 //
 // Do not edit directly
-// Generated on Sat, 03 Aug 2019 20:15:13 GMT
+// Generated on Sat, 03 Aug 2019 20:59:47 GMT
 //
 
 #import "StyleDictionaryProperties.h"
@@ -148,7 +148,7 @@
           },
         @"secondary": @{
           @"base": @{
-            @"value": [UIColor colorWithRed:0.09f green:0.40f blue:0.86f alpha:1.00f],
+            @"value": [object Object],
             @"name": @"StyleDictionaryColorBackgroundButtonSecondaryBase",
             @"category": @"color",
             @"type": @"background",

@@ -2,14 +2,14 @@
 
 <!--
   Do not edit directly
-  Generated on Sat, 03 Aug 2019 20:15:13 GMT
+  Generated on Sat, 03 Aug 2019 20:59:47 GMT
 -->
 <resources>
   <color name="color_background_base">#ffffffff</color>
   <color name="color_background_button_primary_base">#ff1665db</color>
   <color name="color_background_button_primary_disabled">#ff1665db</color>
   <color name="color_background_button_primary_active">#ff1665db</color>
-  <color name="color_background_button_secondary_base">#ff1665db</color>
+  <color name="color_background_button_secondary_base">[object Object]</color>
   <color name="color_background_button_secondary_disabled">#ff1665db</color>
   <color name="color_background_button_secondary_active">#ff1665db</color>
   <color name="color_background_overlay_light">#ccffffff</color>

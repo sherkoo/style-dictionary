@@ -3,7 +3,7 @@
 // StyleDictionaryProperties.h
 //
 // Do not edit directly
-// Generated on Sat, 03 Aug 2019 20:15:13 GMT
+// Generated on Sat, 03 Aug 2019 20:59:47 GMT
 //
 
 #import <Foundation/Foundation.h>

@@ -8,6 +8,9 @@
   text-align: center;
   color: $color-base-white;
   padding: 0 24px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
   background-color: $color-background-button-primary-base;
 
   &:hover{
@@ -21,6 +24,8 @@
 
   // Secondary button
   &.button__secondary{
-    background-color: $color-background-button-secondary-base;
+    background: none;
+    border: 1px solid blue;
+    color: $color-background-button-primary-base;
   }
 }
