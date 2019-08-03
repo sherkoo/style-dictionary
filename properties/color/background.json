@@ -22,7 +22,7 @@
 
         "secondary": {
           "base": {
-            "value": "{color.base.blue.100.value}"
+            "value": "{color.base.white}"
           },
           "disabled": {
             "value": "{color.base.blue.100.value}"

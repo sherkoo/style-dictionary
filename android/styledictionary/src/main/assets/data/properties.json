@@ -271,9 +271,25 @@
         },
         "secondary": {
           "base": {
-            "value": "#ff1665db",
+            "value": {
+              "value": "#ffffffff",
+              "original": {
+                "value": "#ffffff"
+              },
+              "name": "color_base_white",
+              "attributes": {
+                "category": "color",
+                "type": "base",
+                "item": "white"
+              },
+              "path": [
+                "color",
+                "base",
+                "white"
+              ]
+            },
             "original": {
-              "value": "{color.base.blue.100.value}"
+              "value": "{color.base.white}"
             },
             "name": "color_background_button_secondary_base",
             "attributes": {
