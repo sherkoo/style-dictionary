@@ -20,3 +20,19 @@ The npm build task is what performs the style dictionary build steps to generate
 
 ## How to View
 A visual representation of this can be found in ```styleguide/index.html```
+
+## CSS Naming Conventions
+CSS should always start with the name of the styled element. ```__``` denotes a piece of the larger block. ```--``` denotes a modifier to the larger block.
+
+```SCSS
+ ///////////////////////////////////////////
+ // The top-level ‘Block’ of a component.
+ //////////////////////////////////////////
+
+.modal {}
+
+  /* ‘Element’ that is a part of the larger Block. */
+  .modal__title {}
+
+/* A ‘Modifier’ of the Block. */
+.modal--large {}```
